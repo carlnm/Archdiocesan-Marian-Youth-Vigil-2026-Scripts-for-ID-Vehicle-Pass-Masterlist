@@ -5,7 +5,7 @@ import re
 # SETTINGS
 # ============================================================
 
-INPUT_FILE = "CHANGE_FILE_NAME.xlsx"
+INPUT_FILE = "Delegates_Names.xlsx"
 OUTPUT_FILE = "Parishes/Processed_Data_Cleaned.xlsx"
 
 
