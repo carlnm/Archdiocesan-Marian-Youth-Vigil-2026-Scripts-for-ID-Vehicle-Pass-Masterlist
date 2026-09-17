@@ -6,7 +6,7 @@ from reportlab.lib.units import mm
 from reportlab.pdfgen import canvas
 
 # ================= CONFIGURATION =================
-PARENT_BADGES_DIR = "./badges"  # Root folder containing parish/vicariate subfolders
+PARENT_BADGES_DIR = "./ID Maker"  # Root folder containing parish/vicariate subfolders
 BACK_IMAGE_NAME = "back.png"  # Optional local back image name inside subfolder, or root fallback
 ROOT_BACK_IMAGE = "./back.png"
 
