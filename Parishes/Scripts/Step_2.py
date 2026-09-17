@@ -24,7 +24,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 # FILE PATHS
 # ============================================================
 
-INPUT_FILE = "Parishes/Parish Cleaned.xlsx"
+INPUT_FILE = "Parishes/Processed_Data_Cleaned.xlsx" 
 CYM_INPUT_FILE = "CYM/Marian_Youth_Vigil_2026_Cleaned_School_CYM.xlsx"
 
 OUTPUT_FOLDER = "Parishes/Marian Youth Vigil 2026 - Delegations"
